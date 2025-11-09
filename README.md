@@ -9,3 +9,8 @@ login
 #Demo 2
 Master Branch change
 
+<<<<<<< Updated upstream
+=======
+# Feature
+logi
+>>>>>>> Stashed changes
